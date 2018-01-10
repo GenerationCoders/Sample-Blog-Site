@@ -1,0 +1,19 @@
+#blog-header, p, li {
+	font-family: sans-serif;
+}
+#title, #author {
+	color: CornflowerBlue;
+}
+#blog-header p {
+	font-size: 14px;
+}
+#sandwich-img {
+	height: 200px;
+}
+.subheader {
+	color: Coral;
+	font-weight: bold;
+}
+a {
+	color: black;
+}
